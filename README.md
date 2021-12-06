@@ -1,7 +1,7 @@
 # DES
 DES implementation using C++
 
-##USAGE 
-        compilation: g++ -o DES.exe DES.cpp
-        encryption: ./DES.exe encrypt {plaintxt} {key}
+##USAGE  <br />
+        compilation: g++ -o DES.exe DES.cpp      <br />
+        encryption: ./DES.exe encrypt {plaintxt} {key}   <br />
         decryption: ./DES.exe decrypt {cipher} {key}
